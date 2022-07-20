@@ -1,0 +1,6 @@
+SocksPort 127.0.0.1:9050
+ExitRelay 0
+BridgeRelay 0
+
+HiddenServiceDir /var/lib/tor/ssh/
+HiddenServicePort 22 172.17.0.1:22
